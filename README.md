@@ -27,6 +27,7 @@ No conjunto de teste, o melhor desempenho foi obtido pelo `Prophet`, com menor `
 - Frequencia: mensal
 - Total de registros: 144
 - Variaveis: data e numero de passageiros
+- Base: "https://raw.githubusercontent.com/jbrownlee/Datasets/master/airline-passengers.csv"
 
 ### Caracteristicas observadas
 
